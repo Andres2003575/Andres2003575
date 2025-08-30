@@ -1,7 +1,7 @@
 # 👋 Hola, soy Andres Camilo Guerrero Mateus  
 
-💻 **Desarrollador Backend** especializado en **Java** y **Spring Boot**.  
-📚 Actualmente aprendiendo **React** para convertirme en un **Fullstack Developer**.  
+💻 **Desarrollador Backend** con énfasis en **Java** y **Spring Boot**.  
+📚 Actualmente aprendiendo **React** para convertirme en un desarrollador FullStack.  
 🎓 Estudiante de **Ingeniería de Sistemas** en la **Universidad El Bosque** (Bogotá, Colombia).  
 
 ## Tecnologías y herramientas
